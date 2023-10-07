@@ -32,5 +32,6 @@
                 {{ $slot }}
             </main>
         </div>
+        <script src="https://cdn.tilwindcss.com/?plugins-forms"></script>
     </body>
 </html>
